@@ -1,0 +1,7 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.plugins.git.GitBranchSCMRevision plugin="git@4.0.0">
+  <head class="jenkins.plugins.git.GitBranchSCMHead">
+    <name>polling_scm_testing</name>
+  </head>
+  <hash>5773131d7508e49000e1f4c0aaec73fd7ed2409b</hash>
+</jenkins.plugins.git.GitBranchSCMRevision>

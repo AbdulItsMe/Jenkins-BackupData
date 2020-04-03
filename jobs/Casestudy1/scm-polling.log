@@ -1,0 +1,10 @@
+Started on Apr 3, 2020 9:49:00 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision fec90f9f4c0029475c5ddac7b054383cfa6a6b82 (refs/remotes/origin/master)
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h https://github.com/preethibalu/jenkins-demo.git # timeout=10
+Found 1 remote heads on https://github.com/preethibalu/jenkins-demo.git
+[poll] Latest remote head revision on refs/heads/master is: fec90f9f4c0029475c5ddac7b054383cfa6a6b82 - already built by 1
+Done. Took 0.45 sec
+No changes

@@ -1,0 +1,59 @@
+<list>
+  <jbr plugin="global-build-stats@1.5">
+    <r>FAILURE</r>
+    <n>Maven2</n>
+    <nb>2</nb>
+    <d>
+      <time>1584168752352</time>
+      <timezone>Etc/UTC</timezone>
+    </d>
+    <du>94</du>
+    <nn>master</nn>
+    <un>abdulitsme</un>
+  </jbr>
+  <jbr plugin="global-build-stats@1.5">
+    <r>FAILURE</r>
+    <n>Maven2</n>
+    <nb>1</nb>
+    <d>
+      <time>1584168749170</time>
+      <timezone>Etc/UTC</timezone>
+    </d>
+    <du>621</du>
+    <nn>master</nn>
+    <un>abdulitsme</un>
+  </jbr>
+  <jbr plugin="global-build-stats@1.5">
+    <r>SUCCESS</r>
+    <n>Casestudy1</n>
+    <nb>1</nb>
+    <d>
+      <time>1585461451349</time>
+      <timezone>Etc/UTC</timezone>
+    </d>
+    <du>1390</du>
+    <nn>master</nn>
+  </jbr>
+  <jbr plugin="global-build-stats@1.5">
+    <r>FAILURE</r>
+    <n>Casestudy2</n>
+    <nb>1</nb>
+    <d>
+      <time>1585464465399</time>
+      <timezone>Etc/UTC</timezone>
+    </d>
+    <du>4467</du>
+    <nn>master</nn>
+  </jbr>
+  <jbr plugin="global-build-stats@1.5">
+    <r>FAILURE</r>
+    <n>Casestudy2</n>
+    <nb>2</nb>
+    <d>
+      <time>1585465334890</time>
+      <timezone>Etc/UTC</timezone>
+    </d>
+    <du>1127</du>
+    <nn>master</nn>
+  </jbr>
+</list>

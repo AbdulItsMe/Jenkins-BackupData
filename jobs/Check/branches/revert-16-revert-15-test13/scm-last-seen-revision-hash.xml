@@ -1,0 +1,7 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.plugins.git.GitBranchSCMRevision plugin="git@4.0.0">
+  <head class="jenkins.plugins.git.GitBranchSCMHead">
+    <name>revert-16-revert-15-test13</name>
+  </head>
+  <hash>318c18a0da5b5165e987feffe273e7c8e18d8d06</hash>
+</jenkins.plugins.git.GitBranchSCMRevision>

@@ -1,0 +1,48 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.plugins.disk__usage.ProjectDiskUsage plugin="disk-usage@0.28">
+  <diskUsageWithoutBuilds>0</diskUsageWithoutBuilds>
+  <slaveWorkspacesUsage class="concurrent-hash-map">
+    <entry>
+      <string>slave</string>
+      <concurrent-hash-map>
+        <entry>
+          <string>/home/ubuntu/jenkins/workspace/Javancss Report</string>
+          <long>14097667</long>
+        </entry>
+      </concurrent-hash-map>
+    </entry>
+  </slaveWorkspacesUsage>
+  <buildDiskUsage class="java.util.concurrent.CopyOnWriteArraySet">
+    <hudson.plugins.disk__usage.DiskUsageBuildInformation>
+      <id>8</id>
+      <timestamp>1577610966816</timestamp>
+      <number>8</number>
+      <size>284568</size>
+    </hudson.plugins.disk__usage.DiskUsageBuildInformation>
+    <hudson.plugins.disk__usage.DiskUsageBuildInformation>
+      <id>9</id>
+      <timestamp>1577612286905</timestamp>
+      <number>9</number>
+      <size>1464066</size>
+    </hudson.plugins.disk__usage.DiskUsageBuildInformation>
+    <hudson.plugins.disk__usage.DiskUsageBuildInformation>
+      <id>10</id>
+      <timestamp>1577612766928</timestamp>
+      <number>10</number>
+      <size>1463204</size>
+    </hudson.plugins.disk__usage.DiskUsageBuildInformation>
+    <hudson.plugins.disk__usage.DiskUsageBuildInformation>
+      <id>7</id>
+      <timestamp>1577457489343</timestamp>
+      <number>7</number>
+      <size>0</size>
+    </hudson.plugins.disk__usage.DiskUsageBuildInformation>
+    <hudson.plugins.disk__usage.DiskUsageBuildInformation>
+      <id>11</id>
+      <timestamp>1577637966173</timestamp>
+      <number>11</number>
+      <size>1463992</size>
+    </hudson.plugins.disk__usage.DiskUsageBuildInformation>
+  </buildDiskUsage>
+  <allBuildsLoaded>false</allBuildsLoaded>
+</hudson.plugins.disk__usage.ProjectDiskUsage>

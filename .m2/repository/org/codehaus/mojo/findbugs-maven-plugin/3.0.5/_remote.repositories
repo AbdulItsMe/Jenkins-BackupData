@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 26 12:41:12 UTC 2019
+findbugs-maven-plugin-3.0.5.jar>central=
+findbugs-maven-plugin-3.0.5.pom>central=

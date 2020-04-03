@@ -1,0 +1,11 @@
+Started on Apr 3, 2020 9:49:00 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision 230deb426582e2627ce3b0a22a80cd810a8620f0 (refs/remotes/origin/master)
+using credential b93ff967-cc66-47a1-839e-b94c4e41f2ee
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git ls-remote -h https://github.com/AbdulItsMe/jenkins-demo.git # timeout=10
+Found 12 remote heads on https://github.com/AbdulItsMe/jenkins-demo.git
+[poll] Latest remote head revision on refs/heads/master is: 230deb426582e2627ce3b0a22a80cd810a8620f0 - already built by 11
+Done. Took 0.29 sec
+No changes

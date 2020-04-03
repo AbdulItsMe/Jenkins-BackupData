@@ -1,0 +1,68 @@
+Started
+[Sun Mar 15 06:21:43 UTC 2020] Starting branch indexing...
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git ls-remote https://github.com/AbdulItsMe/jenkins-demo.git # timeout=10
+ > git rev-parse --is-inside-work-tree # timeout=10
+Setting origin to https://github.com/AbdulItsMe/jenkins-demo.git
+ > git config remote.origin.url https://github.com/AbdulItsMe/jenkins-demo.git # timeout=10
+Fetching & pruning origin...
+Listing remote references...
+ > git config --get remote.origin.url # timeout=10
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git ls-remote -h https://github.com/AbdulItsMe/jenkins-demo.git # timeout=10
+Fetching upstream changes from origin
+ > git config --get remote.origin.url # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress --prune origin +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking branches...
+  Checking branch maven
+      ‘MavenProject/Jenkinsfile’ not found
+    Does not meet criteria
+  Checking branch testing
+      ‘MavenProject/Jenkinsfile’ not found
+    Does not meet criteria
+  Checking branch testing1
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: testing1 (still at 32973386f269c83f8b10c2196c62df7ed65d1a5d)
+  Checking branch master
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: master (still at 230deb426582e2627ce3b0a22a80cd810a8620f0)
+  Checking branch revert-15-test13
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: revert-15-test13 (still at 355a1ca2007d0b60522f3aa1b4d1ee773a7aa09e)
+  Checking branch polling_scm_testing
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: polling_scm_testing (still at 5773131d7508e49000e1f4c0aaec73fd7ed2409b)
+  Checking branch check
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: check (still at 1178e26d4adcec6b14bc52128d70eee2754935b0)
+  Checking branch test13
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: test13 (still at 760cae7170ac7209ca699d2b28f428f8c8b7ae74)
+  Checking branch test12
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: test12 (still at f292d3b540c1129e1abbb7b0eb443da61c067ff6)
+  Checking branch TestingJenkins
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: TestingJenkins (still at 5be09a97ce60a8eccc08dfe2bd92579265ed99e1)
+  Checking branch revert-16-revert-15-test13
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: revert-16-revert-15-test13 (still at 318c18a0da5b5165e987feffe273e7c8e18d8d06)
+  Checking branch revert-17-revert-16-revert-15-test13
+      ‘MavenProject/Jenkinsfile’ found
+    Met criteria
+No changes detected: revert-17-revert-16-revert-15-test13 (still at eb1af990e7f9326740c9afc50ee9f834efbd78b3)
+Processed 12 branches
+[Sun Mar 15 06:21:44 UTC 2020] Finished branch indexing. Indexing took 0.99 sec
+Finished: SUCCESS
